@@ -1,0 +1,7 @@
+langchain 
+langchain-community
+langchain-google-genai
+flask
+python-dotenv
+torch==2.2.2
+transformers
